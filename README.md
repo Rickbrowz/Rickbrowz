@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com front-end.
 - 🎮 Me aprofundando no cenário do Fivem.
-- 😄 Pronouns: ela/dele.
+- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/Rickbrowz">
